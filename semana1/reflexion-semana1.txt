@@ -1,0 +1,9 @@
+Considero que el uso de herramientas como Git en el
+ámbito de la participación ciudadana y la organización
+de trabajos técnicos es de mucha ayuda porque ayuda
+a generar una trazabilidad granular a la hora de generar
+reportes o ver qué cambios fueron realizador por quién
+para así lograr un historial abierto completo de los
+proyectos que permita auditar cambios y volver atrás
+si es necesario, además, el uso de esta herramienta
+fomenta el trabajo en equipo y la colaboración masiva.

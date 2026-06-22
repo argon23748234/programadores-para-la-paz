@@ -1,0 +1,8 @@
+1. Especificar qué clase de información quiero compartir.
+2. Buscar la información sabiendo concretamente qué se
+quiere buscar.
+3. Evaluar los resultados de búsqueda validando que las fuentes
+sean confiables.
+4. Comparar con otro resultado para validar posibles discrepancias.
+5. Verificar fecha de publicación.
+6. Verificar autor de la publicación.
