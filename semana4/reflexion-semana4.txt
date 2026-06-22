@@ -1,0 +1,9 @@
+Construir herramientas propias con tecnologías abiertas como Node.js otorga a las comunidades
+soberanía tecnológica, liberándolas de la dependencia de monopolios corporativos y costosas licencias.
+Esto les permite diseñar soluciones adaptadas exactamente a sus necesidades locales y realidades
+sociales, resolviendo problemas específicos que el software comercial masivo suele ignorar. Además,
+al basarse en un ecosistema de código abierto y un lenguaje universal como JavaScript, se democratiza
+el conocimiento y se fomenta el aprendizaje colaborativo. De esta forma, la tecnología deja de ser
+un producto de consumo impuesto y se convierte en un motor de empoderamiento ciudadano, garantizando
+que los datos, la privacidad y el control del proyecto permanezcan siempre protegidos y en manos de
+la propia comunidad.
