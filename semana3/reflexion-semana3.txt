@@ -1,0 +1,9 @@
+Mantener un registro de cambios detallado mediante herramientas como Git es un pilar fundamental
+en el desarrollo de software moderno porque proporciona control, transparencia y seguridad a lo
+largo de todo el ciclo de vida del proyecto. Esta práctica actúa como una "máquina del tiempo"
+que permite a los desarrolladores rastrear con absoluta precisión quién realizó una modificación,
+en qué momento exacto y bajo qué justificación técnica. Gracias a esto, si se introduce un error
+inesperado en el sistema, es posible revertir el código a un estado estable anterior en cuestión
+de segundos, minimizando el impacto en producción o de cara al usuario. Asimismo, Git facilita la
+colaboración simultánea de múltiples programadores a través de un sistema de ramas, evitando que el
+trabajo de un miembro del equipo interfiera, duplique o destruya el de otro.

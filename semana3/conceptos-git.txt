@@ -1,0 +1,17 @@
+Repositorio: Es mucho más que una simple carpeta de almacenamiento; es el núcleo organizativo
+de todo proyecto. En este espacio no solo se alojan los archivos de código actualizados, sino que
+se registra minuciosamente todo el historial de cambios, lo que permite colaborar con otros
+desarrolladores, rastrear errores de manera eficiente o restaurar versiones anteriores si algo
+no funciona.
+
+Commit: Podemos imaginar un commit como una "fotografía" permanente o un punto de guardado
+seguro de un proyecto en un instante preciso. Al crear uno, dejamos un registro inmutable de
+las líneas de código exactas que modificaste, agregaste o eliminaste, siempre acompañado de
+un mensaje claro que explica el "por qué" del cambio, facilitando así comprender la evolución
+del trabajo con el paso del tiempo.
+
+Push: La acción de hacer push es el equivalente a sincronizar y compartir nuestro esfuerzo
+individual con el resto del mundo. Consiste en tomar todos los commits que hemos ido confirmando
+localmente en nuestra computadora o en Codespaces y transferirlos al repositorio remoto en GitHub,
+garantizando que el equipo tenga acceso a las últimas actualizaciones y que el código quede
+respaldado en la nube.
