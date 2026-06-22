@@ -1,0 +1,9 @@
+Dominar la terminal es indispensable para un desarrollador porque otorga un nivel de
+velocidad, precisión y automatización que las interfaces gráficas simplemente no pueden
+igualar. Al prescindir del mouse, puedes navegar entre directorios, crear complejas
+estructuras de carpetas o buscar archivos específicos en cuestión de segundos mediante
+comandos directos. Además, la consola es el entorno universal del desarrollo moderno:
+la gran mayoría de herramientas críticas como Git, los gestores de paquetes y las
+conexiones a servidores remotos (SSH) funcionan nativamente allí. Saber organizar un
+proyecto desde la línea de comandos te independiza del sistema operativo, agiliza tu
+flujo de trabajo y te prepara para gestionar despliegues en la nube con total control profesional.
