@@ -1,0 +1,11 @@
+La ruta POST /reportes del servidor lo que hace es tomar
+un fragmento de datos codificados en JSON y extraer el
+contenido de la llave "mensaje", para luego devolver como
+respuesta en formato JSON el siguiente fragmento.
+{"estado":"Reporte recibido","mensaje":"<MENSAJE>"}
+
+Este tipo de APIs pueden ser muy útiles en cualquier
+aplicación comunitaria para enviar y almacenar registros
+en un servidor de una aplicación de gestión de gastos por
+ejemplo. Este concepto es muy polivalente y puede aplicarse
+a cualquier aplicación.

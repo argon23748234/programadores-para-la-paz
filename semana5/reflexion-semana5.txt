@@ -1,0 +1,8 @@
+Las APIs actúan como puentes invisibles que conectan diferentes plataformas, permitiendo que
+la información comunitaria fluya de manera automática y estructurada. Gracias a ellas, si un
+vecino reporta una emergencia o un daño público a través de un bot en WhatsApp o Telegram, una
+API puede enviar ese dato instantáneamente a una base de datos centralizada. Desde allí, otra
+API puede actualizar en tiempo real un mapa web interactivo visible para todos o disparar alertas
+masivas a los miembros del barrio. Esta integración tecnológica elimina la lentitud de los
+registros manuales, evita la pérdida de reportes en grupos de chat saturados y garantiza que los
+datos se gestionen de forma rápida, organizada y transparente para el beneficio colectivo.

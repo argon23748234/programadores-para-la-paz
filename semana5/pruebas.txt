@@ -1,0 +1,13 @@
+- http://localhost:3000 : Esta es la ruta por defecto del servidor.
+En esta ruta se muestra un breve mensaje el cual es: "Servidor activo".
+
+- http://localhost:3000/saludo : En esta ruta podemos visualizar otro
+mensaje informativo, esta vez es: "Hola comunidad".
+
+- http://localhost:3000/mensaje/juan : En esta ruta podemos visualizar
+otra mensaje pero este es más interactivo que los presentados en las
+dos rutas anteriores, aquí podemos pasarle un argumento a través de la
+URL de la siguiente forma: http://localhost:3000/mensaje/<MENSAJE>
+Donde <MENSAJE> es el argumento que queramos pasar al servidor. Por ejemplo,
+esta ruta http://127.0.0.1:3000/mensaje/Marcus, daría como resultado el mensaje:
+Hola Marcus.
