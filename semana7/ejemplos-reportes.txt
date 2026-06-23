@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+    "tipo": "Señalización y semaforización",
+    "descripcion": "Varios semaforos de la zona de la comunidad se encuentran apagados, además de también haber varias señales de tránsito vandalizadas."
+}
+
+Ejemplo 2:
+{
+    "tipo": "Mobiliario urbano deteriorado",
+    "descripcion": "Se hayan varias bancas de los diferentes parques rotas y barandas metálicas oxidadas, junto con algunas tapas de alcantarillado hundidas."
+}

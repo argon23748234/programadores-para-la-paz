@@ -1,0 +1,25 @@
+Cuando enviamos una solicitud de tipo GET a la ruta /reportes en
+el servidor, este nos devuelve todos los reportes que haya almacenado
+hasta el momento como un array de JSON. Por ejemplo, ya habiendo guardado
+3 reportes de prueba, el servidor devolvería la siguiente respuesta.
+
+[
+    {
+        "id": 1,
+        "tipo": "Iluminación pública",
+        "descripcion": "Hay una farola rota en la calle."
+    },
+    {
+        "id": 2,
+        "tipo": "Estado vial deficiente",
+        "descripcion": "Hay una vía principal en mal estado."
+    },
+    {
+        "id": 3,
+        "tipo": "Inseguridad",
+        "descripcion": "Se presentó un motín en una avenida principal de la comunidad"
+    }
+]
+
+Como puede verse, cada reporte está identificado con un número único mediante la llave
+"id", lo que permite acceder a cada reporte en específico fácilmente.
