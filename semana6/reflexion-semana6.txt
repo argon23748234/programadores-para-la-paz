@@ -1,0 +1,9 @@
+Recibir reportes estructurados convierte las quejas ciudadanas en datos accionables,
+optimizando la gestión digital a través de tres ventajas:
+
+Clasificación automática: El sistema categoriza el problema (un bache, un foco fundido)
+al instante, eliminando la lenta revisión manual.
+Análisis de patrones: Permite generar mapas de calor y estadísticas en tiempo real para
+identificar los sectores o problemas más críticos.
+Direccionamiento eficiente: Conecta directamente el reporte con la autoridad competente,
+acelerando los tiempos de respuesta institucional.

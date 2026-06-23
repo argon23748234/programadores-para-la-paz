@@ -1,0 +1,17 @@
+Cuando enviamos una solicitud POST con el siguiente
+contenido en formato JSON.
+{"nombre": "<NOMBRE>", "mensaje": "<MENSAJE>"}
+
+El servidor nos retorna una respuesta del siguiente
+tipo.
+{
+    "estado": "Datos recibidos",
+    "nombre": "<NOMBRE>",
+    "mensaje": "<MENSAJE>"
+}
+
+Es decir, el servidor está recibiendo correctamente
+la solicitud POST con el contenido que queremos enviar,
+lo que permite una mayor interactividad en las aplicaciones
+porque, por ejemplo, esto podría usarse para guardar datos
+en una base de datos.

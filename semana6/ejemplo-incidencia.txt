@@ -1,0 +1,4 @@
+{
+    "tipo": "Mal estado vial",
+    "descripcion": "La comunidad reporta que hay una calle que se encuentra en mal estado debido a muchos huecos que causan accidentes frecuentemente entre los conductores que frecuentan dicha calle"
+}
