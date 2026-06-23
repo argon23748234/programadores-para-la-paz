@@ -1,0 +1,4 @@
+1. Usar contraseñas fuertes con letras mayúsculas, minúsculas, símbolos y números.
+2. No compartir credenciales de ningún tipo en internet ni con otras personas.
+3. Mantener todo el software del que se haga uso actualizado a sus últimas versiones,
+ya que estas siempren traen consigo mejoras y parches para errores en el mismo.

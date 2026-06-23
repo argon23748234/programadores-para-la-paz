@@ -1,0 +1,5 @@
+1. Autenticación multifactor (MFA).
+2. Otorgar solo los permisos necesarios para cada usuario.
+3. Moderación activa de contenido y enlaces.
+4. Políticas de contraseñas robustas y gestión segura.
+5. Actualizaciones constantes y gestión de vulnerabilidades.
