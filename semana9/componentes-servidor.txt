@@ -1,0 +1,25 @@
+- Sistema operativo: Es la parte más importante de todo el software
+que puede residir en una computadora, porque este contiene el kernel (núcleo)
+del sistema, el cual es la base para que todo lo demás pueda ejecutarse correctamente
+en el sistema.
+
+- Node.js: Es un entorno para ejecutar JavaScript fuera de los navegadores web, es decir,
+del lado del servidor, esta aplicación nos permite automatizar tareas mediante JavaScript
+que interactuen con el sistema o con otras aplicaciones, entre muchos otros posibles
+usos.
+
+- Aplicación server.js: Esta es una aplicación backend muy simple que simula cómo
+funcionarían las rutas para verificar el estado en el que se encuentra un servidor
+que aloja una aplicación o sistema real. Esto en la vida real es de mucha ayuda porque
+nos ayuda a verificar el estado de los diferentes servicios y aplicaciones que corren
+en un servidor.
+
+- Puerto: Son las diferentes "entradas" que tiene una computadora para poder comunicarse
+con otras computadoras y sistemas a través de la red, hay en total 65535 puertos disponibles
+y todas las aplicaciones que se comunican con otros sistemas hacen uso de estos puertos ya
+que son parte de la infraestructura que permite esta interconexión.
+
+- Logs: Son registros que generan los sistemas operativos y aplicaciones para poder
+crear una "bitácora" digital de todos los eventos que hayan surgido durante el
+funcionamiento de la aplicación o servidor. Son de mucha ayuda porque ayudan a detectar
+problemas y ver dónde y por qué sucedieron.

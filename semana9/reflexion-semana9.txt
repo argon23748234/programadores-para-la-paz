@@ -1,0 +1,8 @@
+Un servidor estable garantiza que la plataforma esté siempre disponible cuando la comunidad
+necesita participar, evitando caídas que excluyan a usuarios o interrumpan procesos en momentos
+clave, como votaciones o debates con plazos definidos. La seguridad del servidor protege la
+información almacenada (datos personales, opiniones, registros de participación) frente a accesos
+no autorizados, pérdida o alteración. Un entorno estable también previene errores técnicos que
+generen desconfianza o malinterpretaciones sobre el funcionamiento del proceso. Además, la solidez
+del servidor permite escalar ante picos de tráfico, asegurando que todos los participantes tengan
+la misma calidad de acceso sin discriminación técnica.

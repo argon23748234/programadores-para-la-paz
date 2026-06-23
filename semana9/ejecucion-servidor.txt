@@ -1,0 +1,9 @@
+Cuando se ejecuta el comando "node server.js", lo que ocurre es que se empieza
+a ejecutar el servidor que se haya escrito en server.js, en esta ocasión el
+servidor cuenta con dos posibles rutas, la ruta por defecto ("/") y la ruta
+estado ("/estado"). A la hora de correr el servidor, en la terminal aparece
+el mensaje "Servidor ejecutándose en puerto 3000", y cuando visitamos la ruta
+estado, el servidor nos devuelve una respuesta de tipo JSON, la cual es la
+siguiente.
+
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
