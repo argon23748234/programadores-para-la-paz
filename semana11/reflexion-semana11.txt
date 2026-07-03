@@ -1,0 +1,9 @@
+Una base de datos es muy importante porque organiza, centraliza y da permanencia a los reportes y
+propuestas de la comunidad, evitando que las demandas colectivas se dispersen o pierdan en el tiempo.
+Por otro lado, la autenticación de usuarios garantiza la legitimidad del proceso al verificar la identidad
+de los participantes, lo que previene la manipulación de datos, el spam y los perfiles falsos que
+restan credibilidad a las iniciativas. Finalmente, la protección de la información blinda el sistema
+contra filtraciones maliciosas, asegurando que datos sensibles como direcciones o documentos de identidad
+permanezcan en estricta confidencialidad. Juntos, estos tres pilares tecnológicos construyen un entorno
+seguro, transparente y confiable, condiciones estrictamente necesarias para que la ciudadanía participe
+activamente sin temor a ver vulnerada su privacidad.

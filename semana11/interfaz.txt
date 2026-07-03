@@ -1,0 +1,30 @@
+La interfaz de la plataforma está diseñada con un enfoque minimalista, priorizando la claridad y
+la protección de datos en las siguientes secciones:
+
+1. Panel de Creación: Formulario "Nueva Causa"
+En la parte superior se ubica un formulario sencillo y privado. Contiene tres campos de texto:
+Título de la causa, Descripción del problema o propuesta y Fecha de inicio.
+No solicita nombres, identificaciones ni datos personales del creador, garantizando que el registro
+sea seguro y enfocado estrictamente en la iniciativa comunitaria. Un botón verde que dice
+"Publicar Causa" envía la información al sistema.
+
+
+2. Tablero Principal: Vista de Causas Disponibles
+Debajo del formulario se despliega una cuadrícula o lista que muestra todas las causas comunitarias
+activas. Cada causa se presenta dentro de una tarjeta visual independiente que expone únicamente el
+título, la descripción de la propuesta, la fecha de publicación y un estado actual (ej. "En progreso" o "Meta alcanzada").
+
+
+3. Módulo de Interacción: Botón y Contador de Apoyos
+
+Al pie de cada tarjeta de causa se encuentran los elementos de interacción social, diseñados para
+ser completamente anónimos de cara al público:
+
+- Contador de apoyos: Un indicador numérico destacado (ej. "142 apoyos") que refleja de forma
+transparente el respaldo colectivo en tiempo real.
+- Botón "Apoyar Causa": Un botón con el ícono de una mano alzada o un corazón. Al hacer clic,
+el contador suma un apoyo inmediatamente.
+
+Nota de Privacidad: La interfaz no muestra listas de "usuarios que apoyaron" ni nombres asociados
+al contador; el sistema solo procesa el incremento numérico para proteger la identidad y decisiones
+de cada miembro de la comunidad.

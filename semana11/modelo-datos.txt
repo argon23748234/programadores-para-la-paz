@@ -1,0 +1,27 @@
+Entidad: Reporte_Comunitario
+Campos principales:
+
+- id_reporte (Llave primaria)
+- titulo
+- descripcion
+- categoria (ej. infraestructura, seguridad, medio ambiente)
+- estado (ej. abierto, en revisión, resuelto)
+- fecha_creacion
+
+Propósito:
+Almacenar de manera estructurada las solicitudes, problemáticas o propuestas que los ciudadanos
+registran en la plataforma para permitir su seguimiento público y auditoría social.
+
+
+Entidad: Accion_Seguimiento
+Campos principales:
+
+- id_accion (Llave primaria)
+- id_reporte (Llave foránea que conecta con Reporte_Comunitario)
+- id_usuario_responsable (Identificador del rol que ejecuta el cambio)
+- descripcion_cambio
+- fecha_modificacion
+
+Propósito:
+Garantizar la trazabilidad del proceso, registrando cronológicamente los avances de cada reporte,
+qué acciones se tomaron y quién fue el responsable de realizarlas para asegurar la transparencia.
