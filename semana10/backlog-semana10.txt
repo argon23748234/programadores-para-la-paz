@@ -1,0 +1,20 @@
+Prioridad Alta (Seguridad y Captura de Datos):
+Como administrador del sistema, quiero que el formulario de reportes anonimice automáticamente
+los datos sensibles del denunciante, para mitigar riesgos de seguridad y proteger su identidad.
+
+Prioridad Alta (Funcionalidad Central / Core):
+Como veedor ciudadano, quiero registrar una alerta de obra pública inconclusa en el backlog
+comunitario, para que el equipo pueda priorizarla y asignarle un responsable en la próxima iteración.
+
+Prioridad Media (Operación y Automatización Crítica):
+Como coordinador del equipo, quiero recibir una notificación automatizada en Telegram mediante
+n8n cada vez que un ciudadano reporte un caso urgente, para coordinar la respuesta de manera
+inmediata.
+
+Prioridad Media (Transparencia y Cierre de Ciclo):
+Como ciudadano afectado, quiero recibir un mensaje automático de confirmación cuando mi reporte
+sea revisado por un humano, para tener la certeza de que mi caso está siendo atendido con criterio.
+
+Prioridad Baja (Visualización / Valor Agregado):
+Como miembro de la comunidad, quiero visualizar el estado de las investigaciones en un tablero
+público, para conocer los avances del equipo y auditar el trabajo de veeduría de forma transparente.

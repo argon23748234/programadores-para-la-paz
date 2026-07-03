@@ -1,0 +1,35 @@
+Flujo de Automatización de Alertas
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un Webhook en n8n cada vez que un ciudadano envía un reporte
+válido a través del formulario de la plataforma comunitaria (por ejemplo, al registrarse un
+nuevo caso de obra pública inconclusa en la base de datos).
+
+2. ¿Qué mensaje se enviaría a Telegram?
+El nodo de Telegram en n8n enviará un mensaje estructurado y anónimo al canal privado del equipo
+de coordinación:
+
+    📢 Nueva Alerta de Veeduría Recibida
+
+        ID del Reporte: #1042
+
+        Categoría: Infraestructura Vial
+
+        Fecha/Hora: 03/07/2026 - 13:30
+
+        Estado: Pendiente de asignación.
+
+    🔗 Por favor, ingresa al panel interno con tus credenciales para realizar la revisión humana.
+
+3. ¿Qué información NO debería enviarse por seguridad?
+Por estricto cumplimiento ético y de privacidad, nunca deben estar en el mensaje de Telegram los
+siguientes datos sensibles:
+
+- Identidad del denunciante: Nombres, apellidos, número de documento (cédula/DNI) o enlaces a sus
+redes sociales.
+
+- Datos de contacto directo: Correos electrónicos, números de teléfono o direcciones domiciliarias
+exactas.
+
+- Archivos adjuntos sin procesar: Fotografías o documentos cargados por el usuario que contengan
+rostros, placas de vehículos o metadatos de geolocalización que puedan revelar su ubicación exacta.

@@ -1,0 +1,28 @@
+¿Qué 2 tareas del backlog harías primero?
+Para la primera iteración, las tareas prioritarias son:
+1. Anonimización automática de datos sensibles en el formulario de reportes.
+2. Registro de alertas de obras públicas en el backlog comunitario.
+
+
+¿Por qué son las más importantes?
+Son las más importantes porque constituyen la base ética y operativa del proyecto. Sin seguridad
+(anonimización) no se pueden recibir denuncias de forma responsable, y sin la captura de datos
+(registro) no existe materia prima para que el equipo trabaje. Cumplen con la regla de entregar
+primero el valor central y seguro.
+
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, significa que una funcionalidad no solo está programada, sino que es segura, utilizable
+y aporta valor real a la comunidad de veeduría sin necesidad de intervenciones técnicas adicionales.
+
+
+Definición de Terminado (Definition of Done)
+Una tarea se considera terminada cuando cumple los siguientes 3 criterios:
+- Manejo seguro de datos: El código cumple con las políticas de privacidad y no expone ninguna
+información sensible del ciudadano.
+
+- Validación de flujo: La funcionalidad fue probada exitosamente de extremo a extremo (desde el
+formulario hasta su almacenamiento).
+
+- Despliegue y registro: El código está libre de errores, aprobado por otro miembro del equipo
+y quedó registrado en Git en la rama principal.

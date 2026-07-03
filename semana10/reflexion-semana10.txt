@@ -1,0 +1,8 @@
+Las metodologías ágiles aportan estructura y flexibilidad a la participación ciudadana, permitiendo
+priorizar las demandas sociales en un backlog y dividirlas en ciclos cortos de trabajo para entregar
+resultados visibles sin abrumar al equipo. Al integrar la automatización con herramientas como n8n,
+se eliminan las tareas manuales y repetitivas, agilizando el procesamiento de reportes y reduciendo
+los tiempos de respuesta ante emergencias comunitarias. Asimismo, canales como Telegram facilitan
+una comunicación masiva, bidireccional y de bajo consumo de datos, ideal para mantener informada a la
+base ciudadana en tiempo real. En conjunto, este ecosistema tecnológico transforma el voluntariado
+tradicionalen una estructura operativa eficiente, transparente y con capacidad de reacción oportuna. Sin embargo, el éxito de este modelo radica en equilibrar la rapidez técnica con una rigurosa revisión humana que proteja los datos sensibles y preserve la empatía en el diálogo social.
