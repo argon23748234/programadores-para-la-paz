@@ -1,0 +1,29 @@
+Ciudadano
+- id (Clave primaria)
+- correo_electronico (Texto encriptado)
+- hash_contrasena (Texto)
+- rol_veedor (Booleano)
+- fecha_registro (Fecha)
+
+Institucion
+- id (Clave primaria)
+- nombre (Texto)
+- sector_gubernamental (Texto)
+- correo_notificacion (Texto)
+- dias_limite_respuesta (Entero)
+
+
+Explicación de las Entidades
+Entidad: Ciudadano
+Sirve para gestionar el acceso, la autenticación y los roles de las personas que utilizan la
+plataforma. Al mantener los datos de contacto y las contraseñas encriptadas (hash) en una
+tabla separada de las firmas públicas, el sistema garantiza el anonimato y la seguridad de la
+identidad de los usuarios. Además, el campo rol_veedor permite otorgar permisos especiales a
+coordinadores comunitarios para gestionar el avance de los reportes.
+
+Entidad: Institucion
+Sirve para catalogar a las entidades públicas o dependencias gubernamentales (como secretarías de
+salud, alcaldías o ministerios) a las que van dirigidas las peticiones. Esta entidad es clave
+para la automatización, porque permite al sistema saber exactamente a qué correo oficial enviar
+el documento PDF final y calcular automáticamente la fecha máxima en la que, por ley, deben emitir
+una respuesta a la ciudadanía.

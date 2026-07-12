@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología actúa como un puente fundamental para estructurar y 
+masificar la incidencia comunitaria en los asuntos públicos. El uso de metodologías ágiles, como 
+los backlogs y las iteraciones, demostró ser clave para organizar los esfuerzos ciudadanos y 
+priorizar demandas urgentes. Asimismo, comprendí que automatizar tareas repetitivas con herramientas
+como n8n optimiza los tiempos de respuesta y fortalece la coordinación del equipo. No obstante,
+el aprendizaje más crítico fue entender que toda innovación debe estar sustentada en la protección
+rigurosa de los datos y la privacidad de los usuarios. Finalmente, concluí que la participación
+digital solo es efectiva si combina la eficiencia técnica con la empatía, la responsabilidad ética
+y la revisión humana constante.

@@ -1,0 +1,26 @@
+Flujo del Sistema: Petición en 3 Clics
+
+1. Creación de la causa: Clic 1.
+Un ciudadano afectado ingresa a la plataforma, selecciona una categoría de reclamo
+(ej. salud, infraestructura) y describe brevemente la problemática de su comunidad.
+
+
+2. Registro y protección de datos: Procesamiento interno.
+La causa se almacena de forma segura en la base de datos central, anonimizando automáticamente
+los datos sensibles del creador para proteger su identidad.
+
+
+3. Recolección de apoyos: Clic 2.
+Otros miembros de la comunidad ingresan a la plataforma, revisan las causas activas y
+respaldan la solicitud sumando su firma digital con un solo botón.
+
+
+4. Validación y consolidación: Automatización (n8n).
+Al alcanzar una fecha límite o un número mínimo de respaldos, el sistema automatizado valida
+las firmas, consolida el conteo total y cierra la votación.
+
+
+5. Generación del documento formal: Clic 3.
+El sistema genera un documento PDF oficial (como un derecho de petición) que incluye los
+argumentos legales preestablecidos y el listado de respaldos, listo para ser radicado ante la
+entidad pública responsable.

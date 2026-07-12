@@ -1,0 +1,13 @@
+Evento que activa la automatización:
+Una causa registrada en la plataforma alcanza la meta mínima de apoyos (firmas digitales)
+requerida.
+
+Mensaje que se envía a Telegram:
+“¡Meta alcanzada! La causa sobre [Categoría del problema] ha reunido los apoyos necesarios.
+El documento oficial en PDF ha sido generado automáticamente y está listo para ser radicado
+ante la institución.”
+
+Información que NO debe enviarse por seguridad:
+El listado con los nombres de las personas que apoyaron, sus números de documento de identidad
+(cédula/DNI), correos electrónicos, direcciones físicas o cualquier token de autenticación de
+la base de datos. Toda esta información debe permanecer encriptada y protegida en el sistema central.
